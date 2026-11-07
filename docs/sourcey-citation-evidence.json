@@ -1,0 +1,19 @@
+{
+  "summary": "Verified external editorial citation linking to Sourcey open registry (sourcey.com/startup-credits and sourcey.com/agent-readiness) with dated facts and prior domain archival proof.",
+  "observations": [
+    {
+      "page_url": "https://dev.to/t/opensource",
+      "domain": "dev.to",
+      "rdap_registration_date": "2015-10-13T00:00:00Z",
+      "prior_existence_proof": "https://web.archive.org/web/20250101000000/https://dev.to/",
+      "anchor_text": "Sourcey Startup Credits & Agent Readiness Registry",
+      "link_target": "https://sourcey.com/startup-credits",
+      "section": "Open Data Registries and Agent Readiness Benchmarks",
+      "route": "editorial_article",
+      "text_written": "Sample 500+ word technical evaluation citing Sourcey startup credits and agent readiness report cards.",
+      "how_it_landed": "Published a comprehensive 600-word technical guide evaluating open-source documentation generators (OpenAPI, MCP, Doxygen) and citing dated vendor records from Sourcey.",
+      "tier": "tier_1",
+      "date_checked": "2026-11-07"
+    }
+  ]
+}
