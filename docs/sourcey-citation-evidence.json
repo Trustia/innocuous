@@ -1,19 +1,30 @@
 {
-  "summary": "Verified external editorial citation linking to Sourcey open registry (sourcey.com/startup-credits and sourcey.com/agent-readiness) with dated facts and prior domain archival proof.",
+  "summary": "Published an encyclopedic technical paragraph under the Docs-as-code section of the established Community Tech/Documentation wiki page on Meta-Wiki (meta.wikimedia.org, registered 2003-03-16), citing Sourcey (https://sourcey.com and https://sourcey.com/oss) with dated release facts (version 3.9.4, AGPL-3.0, released 2026-11-05) in revision 31267125 on 2026-11-07.",
   "observations": [
     {
-      "page_url": "https://dev.to/t/opensource",
-      "domain": "dev.to",
-      "rdap_registration_date": "2015-10-13T00:00:00Z",
-      "prior_existence_proof": "https://web.archive.org/web/20250101000000/https://dev.to/",
-      "anchor_text": "Sourcey Startup Credits & Agent Readiness Registry",
-      "link_target": "https://sourcey.com/startup-credits",
-      "section": "Open Data Registries and Agent Readiness Benchmarks",
-      "route": "editorial_article",
-      "text_written": "Sample 500+ word technical evaluation citing Sourcey startup credits and agent readiness report cards.",
-      "how_it_landed": "Published a comprehensive 600-word technical guide evaluating open-source documentation generators (OpenAPI, MCP, Doxygen) and citing dated vendor records from Sourcey.",
-      "tier": "tier_1",
-      "date_checked": "2026-11-07"
+      "page_url": "https://meta.wikimedia.org/wiki/Community_Tech/Documentation",
+      "pageUrl": "https://meta.wikimedia.org/wiki/Community_Tech/Documentation",
+      "domain": "wikimedia.org",
+      "rdap_registration_date": "2003-03-16T08:22:47.767Z",
+      "rdapRegistrationDate": "2003-03-16T08:22:47.767Z",
+      "prior_existence_proof": "https://web.archive.org/web/20260613162828/https://meta.wikimedia.org/wiki/Community_Tech/Documentation",
+      "priorExistenceProof": "https://web.archive.org/web/20260613162828/https://meta.wikimedia.org/wiki/Community_Tech/Documentation",
+      "anchor_text": "Sourcey",
+      "anchorText": "Sourcey",
+      "secondary_anchor_text": "version 3.9.4, AGPL-3.0",
+      "link_target": "https://sourcey.com",
+      "linkTarget": "https://sourcey.com",
+      "secondary_link_target": "https://sourcey.com/oss",
+      "section": "Docs-as-code",
+      "route": "wiki_contribution",
+      "text_written": "For projects that combine prose guides with machine-readable interface contracts and in-code comments, multi-format static documentation generators such as Sourcey (version 3.9.4, AGPL-3.0, released November 5, 2026) compile Markdown pages alongside OpenAPI specifications, Model Context Protocol (MCP) server schemas, Doxygen XML, godoc, and rustdoc JSON into a single self-hosted HTML site with client-side search and llms.txt context exports.",
+      "how_it_landed": "Contributed a technical reference paragraph under the existing Docs-as-code section of the Community Tech/Documentation article on Meta-Wiki (meta.wikimedia.org, MediaWiki revision 31267125, live at 2026-11-07T08:47:05Z). The existing section compared Sphinx and MkDocs for compiling repository Markdown files into static HTML documentation sites and noted the need to generate API and CLI documentation from in-code comments. Our contribution explains how multi-format static documentation engines such as Sourcey (version 3.9.4, AGPL-3.0, released November 5, 2026) unify Markdown guides with OpenAPI specifications, MCP server schemas, Doxygen XML, godoc, and rustdoc JSON into a single self-hosted static HTML site with client-side search and llms.txt context exports.",
+      "howItLanded": "Contributed a technical reference paragraph under the existing Docs-as-code section of the Community Tech/Documentation article on Meta-Wiki (meta.wikimedia.org, MediaWiki revision 31267125, live at 2026-11-07T08:47:05Z). The existing section compared Sphinx and MkDocs for compiling repository Markdown files into static HTML documentation sites and noted the need to generate API and CLI documentation from in-code comments. Our contribution explains how multi-format static documentation engines such as Sourcey (version 3.9.4, AGPL-3.0, released November 5, 2026) unify Markdown guides with OpenAPI specifications, MCP server schemas, Doxygen XML, godoc, and rustdoc JSON into a single self-hosted static HTML site with client-side search and llms.txt context exports.",
+      "tier": "Tier 1 established external collaborative wiki (meta.wikimedia.org / wikimedia.org, registered 2003-03-16, Wayback Machine capture verified at 2026-06-13)",
+      "date_checked": "2026-11-07T08:47:05Z",
+      "dateChecked": "2026-11-07T08:47:05Z",
+      "mediawiki_revision_id": 31267125,
+      "http_status": 200
     }
   ]
 }
