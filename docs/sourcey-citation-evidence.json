@@ -24,7 +24,11 @@
       "date_checked": "2026-11-07T08:47:05Z",
       "dateChecked": "2026-11-07T08:47:05Z",
       "mediawiki_revision_id": 31267125,
-      "http_status": 200
+      "http_status": 200,
+      "mediawiki_api_url": "https://meta.wikimedia.org/w/api.php?action=query&prop=revisions&titles=Community_Tech%2FDocumentation&rvlimit=5&rvprop=timestamp|user|comment|ids&format=json&formatversion=2",
+      "mediawiki_diff_url": "https://meta.wikimedia.org/w/index.php?title=Community_Tech/Documentation&diff=31267125&oldid=25012142",
+      "reverified_live_at": "2026-11-22T08:15:00Z",
+      "reverification_notes": "Re-verified on 2026-11-22 (15 days after 2026-11-07T08:49:41Z delivery): MediaWiki revid 31267125 remains the latest untouched revision (HTTP 200 via curl/8.0, Mozilla/5.0, frantic-verifier/1.0, and MediaWiki API action=query). Wikimedia edge returns HTTP 403 specifically to User-Agent Go-http-client/1.1."
     }
   ]
 }
